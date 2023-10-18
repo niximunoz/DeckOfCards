@@ -1,0 +1,15 @@
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\bin\Debug\net6.0\DeckOfCards.exe
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\bin\Debug\net6.0\DeckOfCards.deps.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\bin\Debug\net6.0\DeckOfCards.runtimeconfig.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\bin\Debug\net6.0\DeckOfCards.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\bin\Debug\net6.0\DeckOfCards.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\refint\DeckOfCards.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\DeckOfCards.genruntimeconfig.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\DeckOfCards\obj\Debug\net6.0\ref\DeckOfCards.dll
