@@ -12,6 +12,10 @@ class Jugador
     {
         get { return Nombre; }
     }
+    public List<Carta> _mano
+    {
+        get { return mano; }
+    }
 
     public Carta Tomar(Mazo carta)
     {
